@@ -411,7 +411,7 @@ Yes. Start with issue <a href="https://github.com/LetsCook-Organization/CodeOrbi
   </picture>
 </p>
 
-**Let's Cook — The Foundry** is a national tech community. CodeOrbit is one of its open-source projects: built in public so that learners can practise real teamwork with Git, GitHub, code review and shipping.
+**Let's Cook** is a national tech community. CodeOrbit is one of its open-source projects: built in public so that learners can practise real teamwork with Git, GitHub, code review and shipping.
 
 Our motto is Latin: ***Codere, Aedificare, Vincere.*** It means ***Code. Build. Win.***
 
